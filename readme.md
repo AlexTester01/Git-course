@@ -1,3 +1,3 @@
-# Git hab curs
+Git hab curs
 
 crash curs
