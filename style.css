@@ -5,8 +5,15 @@ li{
     font-style: oblique;
 }
 
-div{
+.box1{
     width: 130px;
     height: 100px;
     background-color: aqua;
+    margin: 10px;
+    padding: 10px;
+    border: 2px solid red;
+    float: left;
+    position:absolute;
+    top: 1000px;
+    left: 500px;
 }

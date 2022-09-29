@@ -1,2 +1,5 @@
-document.body.innerHTML =<h1>hello from java script</h1>
-console.log("Test #2")
+var Услуги = ['Веб-дизайн', 'Разработка/создание сайтов', 'Раскрутка сайтов', 'SMM маркетинг'];
+
+for(var i=0; i < Услуги.length; i++){
+    console.log(Услуги[i]);
+}
